@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alif Yusuf Anwar</h1>
 <h3 align="center">Software Developer | Vocational Student from Indonesia 🇮🇩</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lemonade199&label=Profile%20views&color=0e75b6&style=flat" alt="lemonade199" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lemonade199" alt="lemonade199" /></a> </p>
-
 - 🌱 I’m currently learning **Backend Development, Data Science, AWS, and Software Engineering**
 
 - 👯 I’m looking to collaborate on **Web Development & Open Source Projects**
